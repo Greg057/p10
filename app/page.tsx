@@ -1,5 +1,5 @@
 import MinimalProfileStatic from '@/components/MinimalProfileStatic'
-import OrbitingCirclesStatic from '@/components/OrbitingCirclesStatic'
+import SkillsGridStatic from '@/components/SkillsGridStatic'
 import ThreeDCardStatic from '@/components/ThreeDCardStatic'
 import CustomSectionCardStatic from '@/components/CustomSectionCardStatic'
 import CustomSectionListStatic from '@/components/CustomSectionListStatic'
@@ -11,6 +11,7 @@ export default function Portfolio() {
     <main className="min-h-screen bg-background">
       <div className="container mx-auto max-w-4xl px-4 py-8">
         <MinimalProfileStatic personal={portfolioData.personal} />
+        {portfolioData.skills && <SkillsGridStatic skills={portfolioData.skills} />}
         {portfolioData.workExperience && <CustomSectionCardStatic section={{
           section_name: "Work Experience",
           layout_type: "card",
@@ -42,7 +43,6 @@ export default function Portfolio() {
           }})
         }} />}
         {portfolioData.projects && <ThreeDCardStatic projects={portfolioData.projects} />}
-        {portfolioData.skills && <OrbitingCirclesStatic skills={portfolioData.skills} />}
       </div>
     </main>
   )

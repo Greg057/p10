@@ -26,31 +26,31 @@
   },
   "selectedComponents": {
     "userInfo": "minimalProfile",
-    "skills": "orbitingCircles",
+    "skills": "skillsGrid",
     "projects": "threeDCard",
     "workExperience": "card",
     "education": "card"
   },
   "sectionOrder": [
     "personal",
+    "skills",
     "experience",
     "education",
-    "projects",
-    "skills"
+    "projects"
   ],
   "themePreset": "sunset",
   "skills": [
     {
-      "name": "Java",
-      "logo": "/p10_2/icons/java/java-original.svg"
-    },
-    {
-      "name": "Python",
-      "logo": "/p10_2/icons/python/python-original.svg"
-    },
-    {
       "name": "JavaScript",
       "logo": "/p10_2/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "Java",
+      "logo": "/p10_2/user-files/tech/java-1759815476260.webp"
+    },
+    {
+      "name": "Pythongre",
+      "logo": "/p10_2/icons/python/python-original.svg"
     },
     {
       "name": "React",
