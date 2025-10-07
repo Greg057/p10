@@ -5,7 +5,7 @@
     "about_me": "Detail-oriented Software Engineer with 4+ years of experience developing and maintaining scalable web applications. Skilled in modern programming languages, cloud platforms, and Agile methodologies. Strong collaborator with a track record of delivering high-quality software on time and within scope. Passionate about building user-friendly solutions and continuously learning emerging technologies such as artificial intelligence, machine learning, and cloud-native applications.",
     "location": "San Francisco, CA",
     "avatarUrl": null,
-    "cvUrl": "/p10/user-files/cv/cv.pdf",
+    "cvUrl": "/p10_2/user-files/cv/cv.pdf",
     "custom_links": [
       {
         "icon": "email",
@@ -38,87 +38,87 @@
     "projects",
     "skills"
   ],
-  "themePreset": "ocean",
+  "themePreset": "sunset",
   "skills": [
     {
       "name": "Java",
-      "logo": "/p10/icons/java/java-original.svg"
+      "logo": "/p10_2/icons/java/java-original.svg"
     },
     {
       "name": "Python",
-      "logo": "/p10/icons/python/python-original.svg"
+      "logo": "/p10_2/icons/python/python-original.svg"
     },
     {
       "name": "JavaScript",
-      "logo": "/p10/icons/javascript/javascript-original.svg"
+      "logo": "/p10_2/icons/javascript/javascript-original.svg"
     },
     {
       "name": "React",
-      "logo": "/p10/icons/react/react-original.svg"
+      "logo": "/p10_2/icons/react/react-original.svg"
     },
     {
       "name": "Node.js",
-      "logo": "/p10/icons/nodejs/nodejs-original.svg"
+      "logo": "/p10_2/icons/nodejs/nodejs-original.svg"
     },
     {
       "name": "TypeScript",
-      "logo": "/p10/icons/typescript/typescript-original.svg"
+      "logo": "/p10_2/icons/typescript/typescript-original.svg"
     },
     {
       "name": "C++",
-      "logo": "/p10/icons/cplusplus/cplusplus-original.svg"
+      "logo": "/p10_2/icons/cplusplus/cplusplus-original.svg"
     },
     {
       "name": "Next.js",
-      "logo": "/p10/icons/nextjs/nextjs-original.svg"
+      "logo": "/p10_2/icons/nextjs/nextjs-original.svg"
     },
     {
       "name": "Spring Boot",
-      "logo": "/p10/icons/spring/spring-original.svg"
+      "logo": "/p10_2/icons/spring/spring-original.svg"
     },
     {
       "name": "Express.js",
-      "logo": "/p10/icons/express/express-original.svg"
+      "logo": "/p10_2/icons/express/express-original.svg"
     },
     {
       "name": "Django",
-      "logo": "/p10/icons/django/django-original.svg"
+      "logo": "/p10_2/icons/django/django-original.svg"
     },
     {
       "name": "PostgreSQL",
-      "logo": "/p10/icons/postgresql/postgresql-original.svg"
+      "logo": "/p10_2/icons/postgresql/postgresql-original.svg"
     },
     {
       "name": "MongoDB",
-      "logo": "/p10/icons/mongodb/mongodb-original.svg"
+      "logo": "/p10_2/icons/mongodb/mongodb-original.svg"
     },
     {
       "name": "MySQL",
-      "logo": "/p10/icons/mysql/mysql-original.svg"
+      "logo": "/p10_2/icons/mysql/mysql-original.svg"
     },
     {
       "name": "Redis",
-      "logo": "/p10/icons/redis/redis-original.svg"
+      "logo": "/p10_2/icons/redis/redis-original.svg"
     },
     {
       "name": "AWS",
-      "logo": "/p10/icons/amazonwebservices/amazonwebservices-original.svg"
+      "logo": "/p10_2/icons/amazonwebservices/amazonwebservices-original.svg"
     },
     {
       "name": "Docker",
-      "logo": "/p10/icons/docker/docker-original.svg"
+      "logo": "/p10_2/icons/docker/docker-original.svg"
     },
     {
       "name": "Kubernetes",
-      "logo": "/p10/icons/kubernetes/kubernetes-original.svg"
+      "logo": "/p10_2/icons/kubernetes/kubernetes-original.svg"
     },
     {
       "name": "Git",
-      "logo": "/p10/icons/git/git-original.svg"
+      "logo": "/p10_2/icons/git/git-original.svg"
     },
     {
       "name": "Jenkins",
-      "logo": "/p10/icons/jenkins/jenkins-original.svg"
+      "logo": "/p10_2/icons/jenkins/jenkins-original.svg"
     },
     {
       "name": "CI/CD pipelines",
@@ -130,7 +130,7 @@
     },
     {
       "name": "GraphQL",
-      "logo": "/p10/icons/graphql/graphql-original.svg"
+      "logo": "/p10_2/icons/graphql/graphql-original.svg"
     },
     {
       "name": "Unit Testing",
@@ -150,31 +150,31 @@
     },
     {
       "name": "GitHub Actions",
-      "logo": "/p10/icons/githubactions/githubactions-original.svg"
+      "logo": "/p10_2/icons/githubactions/githubactions-original.svg"
     },
     {
       "name": "Supabase",
-      "logo": "/p10/icons/supabase/supabase-original.svg"
+      "logo": "/p10_2/icons/supabase/supabase-original.svg"
     },
     {
       "name": "Vercel",
-      "logo": "/p10/icons/vercel/vercel-original.svg"
+      "logo": "/p10_2/icons/vercel/vercel-original.svg"
     },
     {
       "name": "scikit-learn",
-      "logo": "/p10/icons/scikitlearn/scikitlearn-original.svg"
+      "logo": "/p10_2/icons/scikitlearn/scikitlearn-original.svg"
     },
     {
       "name": "Flask",
-      "logo": "/p10/icons/flask/flask-original.svg"
+      "logo": "/p10_2/icons/flask/flask-original.svg"
     },
     {
       "name": "React Native",
-      "logo": "/p10/icons/reactnative/reactnative-original.svg"
+      "logo": "/p10_2/icons/reactnative/reactnative-original.svg"
     },
     {
       "name": "SQLite",
-      "logo": "/p10/icons/sqlite/sqlite-original.svg"
+      "logo": "/p10_2/icons/sqlite/sqlite-original.svg"
     }
   ],
   "projects": [
@@ -185,15 +185,15 @@
       "technologies": [
         {
           "name": "nextjs",
-          "logo": "/p10/icons/nextjs/nextjs-original.svg"
+          "logo": "/p10_2/icons/nextjs/nextjs-original.svg"
         },
         {
           "name": "supabase",
-          "logo": "/p10/icons/supabase/supabase-original.svg"
+          "logo": "/p10_2/icons/supabase/supabase-original.svg"
         },
         {
           "name": "vercel",
-          "logo": "/p10/icons/vercel/vercel-original.svg"
+          "logo": "/p10_2/icons/vercel/vercel-original.svg"
         }
       ],
       "custom_links": []
@@ -205,19 +205,19 @@
       "technologies": [
         {
           "name": "python",
-          "logo": "/p10/icons/python/python-original.svg"
+          "logo": "/p10_2/icons/python/python-original.svg"
         },
         {
           "name": "scikitlearn",
-          "logo": "/p10/icons/scikitlearn/scikitlearn-original.svg"
+          "logo": "/p10_2/icons/scikitlearn/scikitlearn-original.svg"
         },
         {
           "name": "flask",
-          "logo": "/p10/icons/flask/flask-original.svg"
+          "logo": "/p10_2/icons/flask/flask-original.svg"
         },
         {
           "name": "react",
-          "logo": "/p10/icons/react/react-original.svg"
+          "logo": "/p10_2/icons/react/react-original.svg"
         }
       ],
       "custom_links": []
@@ -229,11 +229,11 @@
       "technologies": [
         {
           "name": "reactnative",
-          "logo": "/p10/icons/reactnative/reactnative-original.svg"
+          "logo": "/p10_2/icons/reactnative/reactnative-original.svg"
         },
         {
           "name": "sqlite",
-          "logo": "/p10/icons/sqlite/sqlite-original.svg"
+          "logo": "/p10_2/icons/sqlite/sqlite-original.svg"
         }
       ],
       "custom_links": []
